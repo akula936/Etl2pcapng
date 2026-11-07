@@ -137,4 +137,4 @@ This repository serves as the official landing page for etl2pcapng. The software
 **Get the most recent version of etl2pcapng today!**
 
 ---
-**Last updated:** 2026-11-07 15:30:37 UTC
+**Last updated:** 2026-11-07 19:57:42 UTC
